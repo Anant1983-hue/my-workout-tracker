@@ -6,7 +6,7 @@ A simple personal workout plan.
 
 | Day | Workout | Done |
 |---|---|---|
-| Monday | Chest + triceps | [ ] |
+| Monday | Chest + triceps | [Incline Dumbbell Press ] |
 | Tuesday | Back + biceps | [ ] |
 | Wednesday | Legs + core | [ ] |
 | Thursday | Shoulders + triceps | [ ] |
