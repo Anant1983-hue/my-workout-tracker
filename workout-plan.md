@@ -7,12 +7,12 @@ A simple personal workout plan.
 | Day | Workout | Done |
 |---|---|---|
 | Monday | Chest + triceps | [Incline Dumbbell Press ] |
-| Tuesday | Back + biceps | [ ] |
-| Wednesday | Legs + core | [ ] |
-| Thursday | Shoulders + triceps | [ ] |
-| Friday | Back + biceps | [ ] |
-| Saturday | Legs + core or light full body | [ ] |
-| Sunday | Rest / recovery | [ ] |
+| Tuesday | Back + biceps | [biceps curls] |
+| Wednesday | Legs + core | [squats ] |
+| Thursday | Shoulders + triceps | [shoulder press ] |
+| Friday | Back + biceps | [dead lifts ] |
+| Saturday | Legs + core or light full body | [walking ] |
+| Sunday | Rest / recovery | [rest ] |
 
 ## Workout log
 
